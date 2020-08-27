@@ -1,3 +1,1 @@
 # python-codes
-
-OG Parker
